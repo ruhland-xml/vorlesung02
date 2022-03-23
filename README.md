@@ -1,4 +1,4 @@
-# XML-Anwendungen Vorlesung 02
+# XML-Anwendungen Vorlesung 02 vom 23.03.2022
 
 ## Übungen Lesen einer xml-Datei mit NodeJS
 
