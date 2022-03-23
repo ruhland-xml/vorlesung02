@@ -15,7 +15,7 @@ Ausserdem wurde eine `.gitignore` Datei angelegt mit dem Inhalt `node_modules` s
 
 ## Probleme mit xml
 
-XML-Parser wie z.B. der von `xml2js` sind gewöhnlich sehr restriktiv, d.h. sie untersuchen die xml-Datei zuerst ob sie auch $valid$ sind. Kleine Fehler wie z.B. das $&$ Zeichen bewirken einen Fehler beim Parsen.
+XML-Parser wie z.B. der von `xml2js` sind gewöhnlich sehr restriktiv, d.h. sie untersuchen die xml-Datei zuerst ob sie auch *valid* sind. Kleine Fehler wie z.B. das *&* Zeichen bewirken einen Fehler beim Parsen.
 
 Beispiel für das index.js
 
