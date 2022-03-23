@@ -15,7 +15,7 @@ var xml = `
 
 parseString(xml, function (err, result) {
     if ( err !== null )
-        console.log(err);
+        console.log(err.message);
     else
         console.log(result);
-});
+    });
