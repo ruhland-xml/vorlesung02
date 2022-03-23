@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/ruhland-xml/vorlesung02#readme",
   "devDependencies": {
-    "fast-xml-parser": "^4.0.7",
-    "fs": "^0.0.1-security",
     "xml2js": "^0.4.23"
   },
   "keywords": []
