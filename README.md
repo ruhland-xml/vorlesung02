@@ -20,8 +20,8 @@ XML-Parser wie z.B. der von `xml2js` sind gewöhnlich sehr restriktiv, d.h. sie 
 Beispiel für das index.js
 
 ```javascript
-var parseString = require('xml2js').parseString;
-var xml = `
+const {parseString} = require('xml2js');
+const xml = `
 <?XML version="1.0" encoding="UTF-8" standalone="yes"?>
 <katalog>
     <firma>
